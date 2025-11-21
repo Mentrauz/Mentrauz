@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="./cat.jpg" width="200" alt="Profile Avatar" style="border-radius: 50%;" />
+  <img src="./cat.jpg" width="200" height="200" alt="Profile Avatar" style="border-radius: 50%;" />
 
   <h1 align="center">Hi, I'm Soumya Singh</h1>
   
