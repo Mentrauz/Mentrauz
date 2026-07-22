@@ -6,7 +6,6 @@
 
 - 🌱 I am currently learning more about AI and Machine Learning.
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/mentrauz-soumyasingh)
-- 😄 Pronouns: He/Him
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mentrauz)
 
