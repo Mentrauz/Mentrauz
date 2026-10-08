@@ -1,69 +1,95 @@
-# Hi there, I'm Soumya Singh<img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+<div align="center">
 
-<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+# Soumya Singh
 
-## I'm a  FullStack Developer
+### Full-Stack Developer · AI Builder · Computer Engineering
 
-- 🌱 I am currently learning more about AI and Machine Learning.
-- 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/mentrauz-soumyasingh)
+I build production-focused web products, AI workflows, and developer tooling — from idea to deployment.
 
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mentrauz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-soumyasingh.site-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://www.soumyasingh.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mentrauz-soumyasingh/)
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mentrauz-soumyasingh)
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mentrauz)
-
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/mentrauz)
-
-[![Apple](https://img.shields.io/badge/Omen-Transcend_16_2024-999999?style=for-the-badge&logo=hp&logoColor=white)]()
+</div>
 
 ---
 
-<!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+## 🚀 What I Build
 
-### YT Music 🎧
+<table>
+<tr>
+<td width="50%">
 
-[![YT Music](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://music.youtube.com/@mentrauz8429)
+### OpenRoll Payroll
+**Full-stack payroll & HR platform**
 
---- -->
+Employee KYC, attendance, payroll, compliance exports, accounting, RBAC, reports, internal communication, and deployment automation.
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-267%21hrs%2026%20mins-blue)
+**Next.js · Node.js · MongoDB · Python · Cloudflare · Docker**
 
-**An Early🐤** 
+[→ Live platform](https://payroll.soumyasingh.site/)
 
-```text
-🌞 Morning                73 commits          ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-🌆 Daytime                117 commits         ███████████░░░░░░░░░░░░░░   44.66 % 
-🌃 Evening                17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-🌙 Night                  55 commits          █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-```
+</td>
+<td width="50%">
 
+### AgentHUB
+**Visual multi-agent orchestration**
 
-📊 **This Week I Spent My Time On** 
+A full-stack platform for designing and running AI agent workflows with a visual interface.
 
-```text
-🕑︎ Time Zone: India/Bengaluru
+**AI Agents · React/Next.js · Node.js · APIs · Workflow Automation**
 
-💬 Programming Languages: 
-No Activity Tracked This Week
+</td>
+</tr>
 
-🔥 Editors: 
-No Activity Tracked This Week
-```
+<tr>
+<td width="50%">
 
+### BERTUI
+**AI-powered DSA assistant**
 
- Last Updated on 22/07/2026 18:51:46 UTC
-<!--END_SECTION:waka-->
+A BERT-based retrieval and Q&A system focused on helping users solve and understand data-structures & algorithms problems.
 
+**Python · BERT · NLP · Information Retrieval**
+
+</td>
+<td width="50%">
+
+### Daily Pulse
+**AI-verified news platform**
+
+A fast-built news aggregation platform that cross-checks coverage across sources and uses AI to help filter unreliable stories.
+
+**Next.js · TypeScript · APIs · Gemini**
+
+</td>
+</tr>
+</table>
 
 ---
 
+## 🛠️ Stack
 
-[![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)]()
+**Languages** — Java · Python · C/C++ · JavaScript · TypeScript · SQL  
+**Frontend** — React · Next.js · Tailwind CSS · shadcn/ui  
+**Backend** — Node.js · REST APIs · MongoDB  
+**AI** — AI Agents · Prompt Engineering · n8n · RAG · MCP  
+**DevOps / Infra** — Docker · GitHub Actions · Cloudflare · PowerShell  
+**Data** — SQL · Python · Power BI · Dashboards
 
+---
 
-<img src="https://imgur.com/rilHVxA.png"/> 
+## ✦ How I Work
+
+I like owning the whole system — **product thinking → architecture → implementation → deployment**.
+
+I care about interfaces that feel intentional, backend systems that are dependable, and shipping over unnecessary complexity.
+
+---
+
+<div align="center">
+
+### Currently building with AI, full-stack systems, and automation.
+
+[Portfolio](https://www.soumyasingh.site/) · [LinkedIn](https://www.linkedin.com/in/mentrauz-soumyasingh/)
+
+</div>
