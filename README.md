@@ -6,7 +6,7 @@
 
 I build production-focused web products, AI workflows, and developer tooling — from idea to deployment.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-soumyasingh.site-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://www.soumyasingh.site/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-soumyasingh.site-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-mentrauzs-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mentrauz-soumyasingh/)
 
 </div>
@@ -26,7 +26,7 @@ Employee KYC, attendance, payroll, compliance exports, accounting, RBAC, reports
 
 **Next.js · Node.js · MongoDB · Python · Cloudflare · Docker**
 
-[→ Live platform](https://payroll.soumyasingh.site/)
+[→ Live platform](https://open-roll.vercel.app/login)
 
 </td>
 <td width="50%">
@@ -37,6 +37,8 @@ Employee KYC, attendance, payroll, compliance exports, accounting, RBAC, reports
 A full-stack platform for designing and running AI agent workflows with a visual interface.
 
 **AI Agents · React/Next.js · Node.js · APIs · Workflow Automation**
+
+[→ Live platform](https://agenthub-seven-rouge.vercel.app/)
 
 </td>
 </tr>
@@ -51,15 +53,17 @@ A BERT-based retrieval and Q&A system focused on helping users solve and underst
 
 **Python · BERT · NLP · Information Retrieval**
 
+[→ Live platform](https://bertui.vercel.app/)
+
 </td>
 <td width="50%">
 
-### Daily Pulse
-**AI-verified news platform**
+### And Many more....
+**Check my Github for more**
 
-A fast-built news aggregation platform that cross-checks coverage across sources and uses AI to help filter unreliable stories.
+I build them FAST :D
 
-**Next.js · TypeScript · APIs · Gemini**
+**Past.js · Present.js · Next.js **
 
 </td>
 </tr>
@@ -90,6 +94,6 @@ I care about interfaces that feel intentional, backend systems that are dependab
 
 ### Currently building with AI, full-stack systems, and automation.
 
-[Portfolio](https://www.soumyasingh.site/) · [LinkedIn](https://www.linkedin.com/in/mentrauz-soumyasingh/)
+[Portfolio](https://portfolio-mentrauzs-projects.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mentrauz-soumyasingh/)
 
 </div>
